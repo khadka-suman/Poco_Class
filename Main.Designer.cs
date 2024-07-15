@@ -290,7 +290,7 @@
             // 
             // lnkSource
             // 
-           /* this.lnkSource.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.lnkSource.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.lnkSource.AutoSize = true;
             this.lnkSource.Location = new System.Drawing.Point(1248, 760);
             this.lnkSource.Name = "lnkSource";
@@ -300,7 +300,7 @@
             this.lnkSource.Text = "OpenSource stored at GitHub";
             this.lnkSource.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.MyToolTip.SetToolTip(this.lnkSource, "Find source in GitHub repository");
-            this.lnkSource.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkSource_LinkClicked);*/
+            this.lnkSource.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkSource_LinkClicked);
             // 
             // Main
             // 

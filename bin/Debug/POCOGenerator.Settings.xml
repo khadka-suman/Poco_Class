@@ -5,5 +5,5 @@
   </ConnectionStrings>
   <SelectedConnection>server=DELL\SQLLATEST;Database=PrabhuIndiaSandBox;user id=sa;password=ktmnepal1;integrated security=True;MultipleActiveResultSets=True;</SelectedConnection>
   <SqlView>SELECT TOP 10 * FROM ViewName</SqlView>
-  <SqlProcedure>exec PlsUserAuthentication</SqlProcedure>
+  <SqlProcedure>exec plscustomer @flag='s'</SqlProcedure>
 </Settings>

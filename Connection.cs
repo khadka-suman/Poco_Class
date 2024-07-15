@@ -34,7 +34,7 @@ namespace POCOGenerator
 		{
 			if (txtConnectionString.Text.IsNullOrEmpty())
 			{
-				txtConnectionString.Text = @"data source=DELL\SQLLATEST;initial catalog=PrabhuIndiaSandBox;user id=sa;password=ktmnepal1;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework; providerName=System.Data.SqlClient";
+				txtConnectionString.Text = @"data source=xxx;initial catalog=xxx;user id=xxx;password=xxx;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework; providerName=System.Data.SqlClient";
 			}
 		}
 
@@ -61,6 +61,11 @@ namespace POCOGenerator
         #endregion
 
         private void txtConnectionString_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
         {
 
         }
