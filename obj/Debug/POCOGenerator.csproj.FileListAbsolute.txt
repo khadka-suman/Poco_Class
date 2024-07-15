@@ -1,0 +1,11 @@
+E:\Projects\poco\POCOGenerator\POCOGenerator\bin\Debug\POCOGenerator.exe
+E:\Projects\poco\POCOGenerator\POCOGenerator\bin\Debug\POCOGenerator.pdb
+E:\Projects\poco\POCOGenerator\POCOGenerator\obj\Debug\POCOGenerator.csproj.AssemblyReference.cache
+E:\Projects\poco\POCOGenerator\POCOGenerator\obj\Debug\POCOGenerator.Connection.resources
+E:\Projects\poco\POCOGenerator\POCOGenerator\obj\Debug\POCOGenerator.Controls.ResultContent.resources
+E:\Projects\poco\POCOGenerator\POCOGenerator\obj\Debug\POCOGenerator.Main.resources
+E:\Projects\poco\POCOGenerator\POCOGenerator\obj\Debug\POCOGenerator.Properties.Resources.resources
+E:\Projects\poco\POCOGenerator\POCOGenerator\obj\Debug\POCOGenerator.csproj.GenerateResource.cache
+E:\Projects\poco\POCOGenerator\POCOGenerator\obj\Debug\POCOGenerator.csproj.CoreCompileInputs.cache
+E:\Projects\poco\POCOGenerator\POCOGenerator\obj\Debug\POCOGenerator.exe
+E:\Projects\poco\POCOGenerator\POCOGenerator\obj\Debug\POCOGenerator.pdb
