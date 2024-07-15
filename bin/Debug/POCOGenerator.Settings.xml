@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ConnectionStrings>
-    <string>server=DELL\SQLLATEST;Database=PrabhuIndiaSandBox;user id=sa;password=ktmnepal1;integrated security=True;MultipleActiveResultSets=True;</string>
+    <string>server=DELL\SQLLATEST;Database=PrabhuIndiaSandBox;user id=sa;password=ktmnepal1;integrated security=True;MultipleActiveResultSets=True</string>
   </ConnectionStrings>
-  <SelectedConnection>server=DELL\SQLLATEST;Database=PrabhuIndiaSandBox;user id=sa;password=ktmnepal1;integrated security=True;MultipleActiveResultSets=True;</SelectedConnection>
+  <SelectedConnection>server=DELL\SQLLATEST;Database=PrabhuIndiaSandBox;user id=sa;password=ktmnepal1;integrated security=True;MultipleActiveResultSets=True</SelectedConnection>
   <SqlView>SELECT TOP 10 * FROM ViewName</SqlView>
-  <SqlProcedure>exec plscustomer @flag='s'</SqlProcedure>
+  <SqlProcedure>exec plsbranch @flag='s'</SqlProcedure>
 </Settings>

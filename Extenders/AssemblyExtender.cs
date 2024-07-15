@@ -15,7 +15,7 @@ namespace POCOGenerator.Extenders
 		public static string DisplayVersion(this Assembly assembly)
 		{
 			var version = assembly.Version();
-			return $"{version.Major}.{version.Minor} ({assembly.BuildDate().ToLocalTime().ToString("yyyy-MM-dd")})";
+			return $"{version.Major}.{version.Minor} ({assembly.BuildDate().ToLocalTime():yyyy-MM-dd})";
 		}
 
 		public static DateTime BuildDate(this Assembly assembly)
@@ -75,11 +75,10 @@ namespace POCOGenerator.Extenders
 			return string.Empty;
 		}
 
-		/// <summary>
-		/// Retrieves the linker timestamp from the file header.
-		/// Code taken from here: http://www.codinghorror.com/blog/2005/04/determining-build-date-the-hard-way.html
-		/// </summary>
-		private static DateTime GetTimestampFromLinker(string filePath)
+        /// <summary>
+        /// Code taken from here: https://github.com/jaklithn/POCOGenerator/tree/master/POCOGenerator
+		/// /// </summary>
+        private static DateTime GetTimestampFromLinker(string filePath)
 		{
 			const int peHeaderOffset = 60;
 			const int linkerTimestampOffset = 8;

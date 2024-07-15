@@ -34,7 +34,8 @@ namespace POCOGenerator
 		{
 			if (txtConnectionString.Text.IsNullOrEmpty())
 			{
-				txtConnectionString.Text = @"data source=xxx;initial catalog=xxx;user id=xxx;password=xxx;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework; providerName=System.Data.SqlClient";
+
+				txtConnectionString.Text = @"server=xxx;Database=xxx;user id=xxx;password=xxx;integrated security=True;MultipleActiveResultSets=True";
 			}
 		}
 

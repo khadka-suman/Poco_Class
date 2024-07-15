@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|e:\\projects\\poco\\pocogenerator\\pocogenerator\\extenders\\assemblyextender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|solutionrelative:extenders\\assemblyextender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|e:\\projects\\poco\\pocogenerator\\pocogenerator\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|e:\\projects\\poco\\pocogenerator\\pocogenerator\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|e:\\projects\\poco\\pocogenerator\\pocogenerator\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|e:\\projects\\poco\\pocogenerator\\pocogenerator\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|e:\\projects\\poco\\pocogenerator\\pocogenerator\\connection.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|solutionrelative:connection.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|e:\\projects\\poco\\pocogenerator\\pocogenerator\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8201322-852D-4DEA-A39F-FCF8776F00D0}|POCOGenerator.csproj|solutionrelative:main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +58,90 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:42:40.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:42:36.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AssemblyExtender.cs",
+              "DocumentMoniker": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Extenders\\AssemblyExtender.cs",
+              "RelativeDocumentMoniker": "Extenders\\AssemblyExtender.cs",
+              "ToolTip": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Extenders\\AssemblyExtender.cs",
+              "RelativeToolTip": "Extenders\\AssemblyExtender.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAIAzwEkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:42:19.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Connection.cs",
+              "RelativeToolTip": "Connection.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAewCAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:30:56.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Connection.cs [Design]",
+              "DocumentMoniker": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Connection.cs [Design]",
+              "RelativeToolTip": "Connection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:30:52.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.Designer.cs",
+              "DocumentMoniker": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Connection.Designer.cs",
+              "RelativeDocumentMoniker": "Connection.Designer.cs",
+              "ToolTip": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Connection.Designer.cs",
+              "RelativeToolTip": "Connection.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:30:38.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Main.Designer.cs",
               "DocumentMoniker": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Main.Designer.cs",
               "RelativeDocumentMoniker": "Main.Designer.cs",
               "ToolTip": "E:\\Projects\\poco\\POCOGenerator\\POCOGenerator\\Main.Designer.cs",
               "RelativeToolTip": "Main.Designer.cs",
-              "ViewState": "AQIAAP8AAAAAAAAAAAAYwCoBAAAqAAAA",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAYwBIBAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T11:26:33.293Z",
               "EditorCaption": ""
