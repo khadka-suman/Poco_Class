@@ -55,7 +55,7 @@ namespace POCOGenerator
             InitializeComponent();
             var assembly = Assembly.GetExecutingAssembly();
             lblVersion.Text = $"Version: {assembly.DisplayVersion()}, {assembly.Copyright()}";
-            lnkSource.Links.Add(new LinkLabel.Link() { LinkData = "https://github.com/jaklithn/POCOGenerator" });
+            lnkSource.Links.Add(new LinkLabel.Link() { LinkData = "https://github.com/khadka-suman/Poco_Class.git" });
             tabResult.TabPages.Clear();
         }
 

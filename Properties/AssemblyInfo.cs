@@ -5,7 +5,7 @@
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("POCOGenerator")]
-[assembly: AssemblyCopyright("Jakob Lithner")]
+[assembly: AssemblyCopyright("Suman Khadka")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
